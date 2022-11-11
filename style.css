@@ -1,3 +1,25 @@
 body{
-    background-color: aqua;
+    font-family: 'Oswald', sans-serif;
+}
+h1{font-size: 50px;}
+.name{
+    color: tomato;
+}
+.ban{
+    color: darkslateblue;
+}
+.link{
+    background-image: linear-gradient(rgb(255, 102, 0),tomato);
+    padding: 10px 20px;
+    margin: auto;
+    border-radius: 5px;
+    box-shadow: 5px;
+    background-position: 10px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;   
+}
+.link:hover{
+    background-color: yellowgreen;
+    color: white;
 }
