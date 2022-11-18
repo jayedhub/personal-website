@@ -1,25 +1,89 @@
 body{
-    font-family: 'Oswald', sans-serif;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-h1{font-size: 50px;}
-.name{
+h1{ 
+    color: darkslateblue;
+    font-size: 50px;
+}
+#rob{
     color: tomato;
 }
-.ban{
-    color: darkslateblue;
-}
-.link{
+#link{
     background-image: linear-gradient(rgb(255, 102, 0),tomato);
-    padding: 10px 20px;
+    padding: 15px;
     margin: auto;
     border-radius: 5px;
-    box-shadow: 5px;
-    background-position: 10px;
+    background-position: 20px;
     color: white;
     text-decoration: none;
     font-weight: bold;   
 }
-.link:hover{
-    background-color: yellowgreen;
-    color: white;
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 8%;
+    padding-left:1%;
 }
+.half img{
+    width: 70%;
+}
+section{
+    height: 460px;
+    padding-bottom: 20px;
+}
+#h1{
+    text-align: center;
+    font-size: 30px;
+}
+#tomato{
+    color: tomato;
+}
+h2{
+    color: darkslateblue;
+    padding-left:10px;
+}
+p{
+    padding-left: 10px;
+}
+.image{
+    background-color: beige;
+
+}
+  .img{
+    width: 30%;
+    box-shadow: 10px 10px 40px grey;
+    border-radius:10px;
+    margin-left: 9px;
+    float: left;
+}
+ .img img{
+    width: 100%;
+    height: auto;
+ }
+ 
+    .grp{
+     width: 100%;
+     margin-left:10%;
+     margin-top: 10%;
+     padding:  20px;
+      
+    }
+    .bg{
+        width: 50%;
+    }
+    .chat{
+        text-decoration: none;
+        background-color:tomato;
+        float: left;
+        bottom: 40%;
+        left: 45%;
+        color: white;
+        font-size: 15px;
+        border-radius: 5px;
+        position:relative;
+        margin: 30px;
+        padding: 16px;
+        }
+
+ 
+  
