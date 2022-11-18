@@ -1,6 +1,14 @@
 body{
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+ 
+ li{
+    display: inline;
+    padding: 8px;
+    float: right;
+    
+ }
 h1{ 
     color: darkslateblue;
     font-size: 50px;
